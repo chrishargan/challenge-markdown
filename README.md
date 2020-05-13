@@ -4,7 +4,7 @@
 
 ![image of face](face.jpg)
 
-##Me, in one sentence
+## Me, in one sentence
 
 Birthday: 09/07 <br>
 Gender: Male <br>
