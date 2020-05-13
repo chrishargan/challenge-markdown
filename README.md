@@ -2,7 +2,7 @@
 
 *We are all in the gutter, but some of us are looking at the stars...*
 
-![image of face] (face.jpg)
+![image of face](face.jpg)
 
 ##Me, in one sentence
 
