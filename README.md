@@ -6,11 +6,13 @@
 
 ## Me, in one sentence
 
-Birthday: 09/07 <br>
-Gender: Male <br>
-Favourite colour: Ultramarine Blue <br>
-Favourite Food: Massaman curry <br>
-Pineapple on Pizza? : | <ul><li>[x] Yes</li><li>[ ] No</li></ul>|
+|   |   |
+|---|---|
+| Birthday: | 09/07   |    
+| Gender: | Male   |
+| Favourite colour:  | Ultramarine Blue   |
+| Favourite food:  | Massaman curry  |
+| Pineapple on pizza? : | <ul><li>[ ] No</li><li>[x] Yes</li></ul>|
 
 ## Hobbies
 - Sculpting
