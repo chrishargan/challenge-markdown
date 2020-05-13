@@ -33,6 +33,4 @@ Big brothers can be mean
 <br>
 <br>
 
-<< {Previous}[1] || Chris || {Next}[2] >>  
-[1]: (https://github.com/Arnaud-Langenus/challenge-markdown) "Arnaud"
-[2]: (https://github.com/Deni-Khalikov/challenge-markdown) "Deni"
+<< [Previous](https://github.com/Arnaud-Langenus/challenge-markdown) || Chris || [Next](https://github.com/Deni-Khalikov/challenge-markdown) >>  
