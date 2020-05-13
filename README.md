@@ -33,4 +33,4 @@ Big brothers can be mean
 <br>
 <br>
 
-<< [Previous](https://github.com/Arnaud-Langenus/challenge-markdown) || Chris || [Next](https://github.com/Deni-Khalikov/challenge-markdown) >>  
+<< [Previous](https://github.com/Arnaud-Langenus/Markdown) || Chris || [Next](https://github.com/Deni-Khalikov/challenge-markdown) >>  
