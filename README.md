@@ -33,4 +33,6 @@ Big brothers can be mean
 <br>
 <br>
 
-<<  [previous][1] || Chris || [next] [2]>>
+<<  [previous][1] || Chris || [next][2]>>
+[1]: 
+[2]: https://github.com/Deni-Khalikov/challenge-markdown/blob/master/README.md
