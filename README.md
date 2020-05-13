@@ -10,7 +10,7 @@ Birthday: 09/07 <br>
 Gender: Male <br>
 Favourite colour: Ultramarine Blue <br>
 Favourite Food: Massaman curry <br>
-Pineapple on Pizza <br> Yes please - [x] No - [ ]<br>
+Pineapple on Pizza? : | <ul><li>[x] Yes</li><li>[ ] No</li></ul>|
 
 ## Hobbies
 - Sculpting
