@@ -69,7 +69,7 @@
         <br>
         <h2>To see my other Creative side...</h2>
 
-        <a href="https://www.chrishargan.com/">My Artwork
+        <a href="https://www.chrishargan.com/" "My Artwork">
         
 </main>
 
