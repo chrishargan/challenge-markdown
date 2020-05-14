@@ -3,6 +3,8 @@
 <head>
     <link rel="stylesheet" href="CSS.css"
     <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <link href="stylesheet.css" rel="stylesheet">
 
 </head>
 <body>
@@ -19,10 +21,6 @@
     }
 </style>
 
-<meta charset="utf-8">
-<link href="stylesheet.css" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&amp;display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&amp;display=swap" rel="stylesheet">
 
 
 
@@ -89,8 +87,6 @@
             <br>
 
 
-
-
 </main>
 
 <footer>
@@ -105,4 +101,5 @@
         background-image: url('aerial-photography-bird-s-eye-view-colors-daylight-1557238 (1).jpg');
     }
 </body>
+
 </html>
