@@ -71,9 +71,6 @@
 
         <a href="https://www.chrishargan.com/">My Artwork
         
-
-          
-    </div>
 </main>
 
 <footer>
