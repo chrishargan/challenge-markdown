@@ -70,9 +70,9 @@
         <h2>To see my other Creative side...</h2>
 
         <a href="https://www.chrishargan.com/">My Artwork
+        
 
-            <h4></h4>
-            <br>
+          
     </div>
 </main>
 
