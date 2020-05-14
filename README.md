@@ -68,8 +68,12 @@
         <p>...you are looking for creative exploration of ideas</p>
         <br>
         <h2>To see my other Creative side...</h2>
+        <a href="https://www.chrishargan.com/">My Artwork
+            <br>
+            <br>
 
-        <a href="https://www.chrishargan.com/" "My Artwork">
+
+    </div>
         
 </main>
 
