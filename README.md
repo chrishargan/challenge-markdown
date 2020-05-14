@@ -2,13 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
-</head>
+    </head>
 <body><body>﻿
 
 
 <meta charset="utf-8">
-<title>HTML &amp; CSS</title>
 <link href="stylesheet.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&amp;display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&amp;display=swap" rel="stylesheet">
