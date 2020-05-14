@@ -1,38 +1,90 @@
-# Chris Hargan
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body><body>﻿
 
-*We are all in the gutter, but some of us are looking at the stars...*
 
-![image of face](face.jpg)
+<meta charset="utf-8">
+<title>HTML &amp; CSS</title>
+<link href="stylesheet.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&amp;display=swap" rel="stylesheet">
 
-## Me, in one sentence
 
-|   |   |
-|---|---|
-| Birthday: | 09/07   |    
-| Gender: | Male   |
-| Favourite colour:  | Ultramarine Blue   |
-| Favourite food:  | Massaman curry  |
-| Pineapple on pizza? : | <ul><li>[ ] No</li><li>[x] Yes</li></ul>|
 
-## Hobbies
-- Sculpting
-- Gardening
-- Baking
-- Gaming
-    - Witcher 3
-    - South park
-    - Red Dead Redemption 2
-    
-## You can always count on me
-I put in the time to create something  we can be proud of.
+<header>
+    <div class="container">
+        <h1>Chris Hargan</h1>
+        <h3><i>"We are all in the gutter, but some of us are looking at the stars...- Oscar Wilde"</i></h3>
+    </div>
+</header>
 
-## A funny story
-When growing up part of being a big brother was finding unique and humourous ways to torment your younger siblings. One such occasion was on a family holiday to Gran Canaria. My brother who was only 8 years old at the time, had remarked with confusion about a Rastafarian man's dreadlocked hair and asked "why do they look so different?", I explained to him that, "it was a cultural practice but that the hair wasn't the main thing he should worry about and that he should keep a distance as they eat children". My little brother and sister looked at each other with disbelief, only to have one man that overheard us play along and say "Mmmm Delicious children!" causing them to scream and run away.
-### TL;DR
-Big brothers can be mean
-<br>
-<br>
-<br>
-<br>
+<main>
+    <div class="container">
+        <img Height="700" width="700" src="IMG_4936%20(1).jpg" alt="Photo Chris">
+        <br>
+        <hr>
+        <table>
+            <caption><h2><strong>About me</strong></h2></caption>
+            <tbody><tr>
+                <th>Birthday:</th>
+                <td>9th July</td>
+            </tr>
+            <tr>
+                <th>Gender:</th>
+                <td>Male</td>
+            </tr>
+            <tr>
+                <th>Favorite colour:</th>
+                <td>Ultramarine Blue</td>
+            </tr>
+            <tr>
+                <th>Favorite food:</th>
+                <td>Don't make me choose</td>
+            </tr>
+            <tr>
+                <th>Pineapple on pizza:</th>
+                <td> Yes please &#10003;</td>
+            </tr>
+            </tbody></table>
+        <br>
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Creating Artworks</li>
+            <li>Gardening</li>
+            <li>Baking</li>
+            <li>Gaming
+                <ul>
+                    <li>The Witcher 3</li>
+                    <li>South park</li>
+                    <li>Red Dead Redemption 2</li>
+                </ul>
+            </li>
+            <li>Travelling</li>
+        </ul>
+        <br>
+        <h2>You can always count on me when...</h2>
+        <p>...you are looking for creative exploration of ideas</p>
+        <br>
+        <h2>To see my other Creative side...</h2>
 
-<< [Previous](https://github.com/Arnaud-Langenus/Markdown) || Chris || [Next](https://github.com/Deni-Khalikov/challenge-markdown) >>  
+        <a href="https://www.chrishargan.com/">My Artwork
+
+            <h4></h4>
+            <br>
+    </div>
+</main>
+
+<footer>
+    <div class="container">
+        <a href="https://github.com/Arnaud-Langenus/Markdown"> &#171; Previous  </a>|| Chris || <a href="https://github.com/Deni-Khalikov/challenge-markdown"> Next &#187;    </div>
+</footer>
+
+
+</body>
+
+</body>
+</html>
