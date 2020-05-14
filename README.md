@@ -1,10 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="CSS.css"
     <meta charset="UTF-8">
-    </head>
-<body><body>﻿
 
+</head>
+<body>
+
+<style>
+    h2 {
+        color: dodgerblue;
+    }
+    h1{
+        color: blue;
+    }
+    h3 {
+        color: dodgerblue;
+    }
+</style>
 
 <meta charset="utf-8">
 <link href="stylesheet.css" rel="stylesheet">
@@ -21,6 +34,7 @@
 </header>
 
 <main>
+
     <div class="container">
         <img Height="700" width="700" src="IMG_4936%20(1).jpg" alt="Photo Chris">
         <br>
@@ -68,22 +82,27 @@
         <p>...you are looking for creative exploration of ideas</p>
         <br>
         <h2>To see my other Creative side...</h2>
-        <a href="https://www.chrishargan.com/">My Artwork
+
+        <input type="button" value="My Artwork"<a href="https://www.chrishargan.com/">
+
             <br>
             <br>
 
 
-    
-        
+
+
 </main>
 
 <footer>
     <div class="container">
-        <a href="https://github.com/Arnaud-Langenus/Markdown"> &#171; Previous  </a>|| Chris || <a href="https://github.com/Deni-Khalikov/challenge-markdown"> Next &#187;    </div>
+        <a href="https://github.com/Arnaud-Langenus/Markdown"> &#171; Previous  </a>|| Chris || <a href="https://deni-khalikov.github.io/markdonw-warmup-css/"> Next &#187;    </div>
 </footer>
 
 
-</body>
 
+<style>
+    body {
+        background-image: url('aerial-photography-bird-s-eye-view-colors-daylight-1557238 (1).jpg');
+    }
 </body>
 </html>
