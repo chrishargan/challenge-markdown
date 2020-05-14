@@ -1,0 +1,30 @@
+body {
+    align-content: center;
+<style>
+ .content body {
+     max-width:100%;
+     margin: 0%;
+ }
+
+
+
+h2 {
+    color: dodgerblue;
+}
+h1{
+    color: blue;
+}
+h3 {
+    color: dodgerblue;
+}
+
+
+ .content {
+     max-width: 500px;
+     margin: auto;
+ }
+
+ body {
+     background-image: url('aerial-photography-bird-s-eye-view-colors-daylight-1557238 (1).jpg');
+ }
+ style
